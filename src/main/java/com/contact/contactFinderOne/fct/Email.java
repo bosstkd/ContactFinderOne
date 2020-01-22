@@ -29,7 +29,7 @@ import javax.mail.internet.MimeMessage;
             String subject = sub;
             String msg = text;
             final String from ="amitaek@gmail.com";
-            final  String password ="j18M01a87";
+            final  String password ="______________";
 
 
             try {
